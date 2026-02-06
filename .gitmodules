@@ -1,0 +1,3 @@
+[submodule "services/iam"]
+	path = services/iam
+	url = https://github.com/NadimPy/beirut-iam.git
