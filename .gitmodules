@@ -1,3 +1,6 @@
 [submodule "services/iam"]
 	path = services/iam
 	url = https://github.com/NadimPy/beirut-iam.git
+[submodule "services/web-dashboard"]
+	path = services/web-dashboard
+	url = https://github.com/NadimPy/beirut-dashboard.git
